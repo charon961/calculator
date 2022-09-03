@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: aquamarine;
+}
+.calc{
+    display: flex;
+    height: 409px;
+    border: 3px solid black;
+    width: 206px;
+    position: relative;
+    margin: auto auto;
+    /* margin-top: 122px; */
+}
+
+
+.ac{
+    display: flex;
+    border: 1px solid green;
+    height: 80px;
+    width: 50px;
+    justify-content: center;
+
+}
+.addsub{
+    display: flex;
+    border: 1px solid green;
+    height: 80px;
+    width: 50px;
+    justify-content: center;
+
+}
+.mod{
+    display: flex;
+    border: 1px solid green;
+    height: 80px;
+    justify-content: center;
+    width: 50px;
+
+}
+.dd{
+    display: flex;
+    border: 1px solid green;
+    height: 80px;
+    width: 50px;justify-content: center;
+
+}
+
+.zero{
+    display: flex;
+    height: 80px;
+    width: 50px;justify-content: center;
+}
+
+.row1{
+    background-color: bisque;
+    font-size: 30px;
+}
+.row2{
+    background-color: bisque;
+    font-size: 30px;
+}
+.row3{
+    background-color: bisque;
+    font-size: 30px;
+}
+.row4{
+    background-color:aqua;
+    font-size: 30px;
+}
+
+
+.space{
+    display: flex;
+    /* border: 1px solid green; */
+    height: 80px;
+    width: 206px;
+    margin: auto ;
+    margin-top: 122px; 
+    background-color: aquamarine;
+    font-size: 30px;
+    justify-content: right;
+   
+
+}
+
+
+.heading{
+    display: flex;
+    color: black;
+    justify-content: center;
+    font-size: 38px;
+}
